@@ -8,7 +8,7 @@
       "description": "A library for Eaglerforge Injector for custom items.",
       "icon": "https://logolook.net/wp-content/uploads/2021/06/Symbol-Minecraft.png",
       "repo-link": "https://github.com/eaglerforge/EaglerForgeInjector/tree/main/examplemods",
-      "download-link": "/Communitymods/eaglerinjector/lib.customitems.js",
+      "download-link": "/CommunityMods/eaglerinjector/lib.customitems.js",
       "category": "Library",
       "api": "Eaglerforge-Injector"
     },
@@ -20,7 +20,7 @@
       "description": "Handles asynchronous operations.",
       "icon": "https://logolook.net/wp-content/uploads/2021/06/Symbol-Minecraft.png",
       "repo-link": "https://github.com/eaglerforge/EaglerForgeInjector/tree/main/examplemods",
-      "download-link": "/Communitymods/eaglerinjector/AsyncSink.js",
+      "download-link": "/CommunityMods/eaglerinjector/AsyncSink.js",
       "category": "Library",
       "api": "Eaglerforge-Injector"
     },
@@ -32,7 +32,7 @@
       "description": "An advanced version of the Block of Steve mod.",
       "icon": "https://logolook.net/wp-content/uploads/2021/06/Symbol-Minecraft.png",
       "repo-link": "https://github.com/eaglerforge/EaglerForgeInjector/tree/main/examplemods",
-      "download-link": "/Communitymods/eaglerinjector/block_of_steve_advanced.js",
+      "download-link": "/CommunityMods/eaglerinjector/block_of_steve_advanced.js",
       "category": "Mod",
       "api": "Eaglerforge-Injector"
     },
@@ -44,7 +44,7 @@
       "description": "A simple version of the Block of Steve mod.",
       "icon": "https://logolook.net/wp-content/uploads/2021/06/Symbol-Minecraft.png",
       "repo-link": "https://github.com/eaglerforge/EaglerForgeInjector/tree/main/examplemods",
-      "download-link": "/Communitymods/eaglerinjector/block_of_steve_simple.js",
+      "download-link": "/CommunityMods/eaglerinjector/block_of_steve_simple.js",
       "category": "Mod",
       "api": "Eaglerforge-Injector"
     },
@@ -56,7 +56,7 @@
       "description": "A demonstration mod for custom items.",
       "icon": "https://logolook.net/wp-content/uploads/2021/06/Symbol-Minecraft.png",
       "repo-link": "https://github.com/eaglerforge/EaglerForgeInjector/tree/main/examplemods",
-      "download-link": "/Communitymods/eaglerinjector/CustomItemsDemo.js",
+      "download-link": "/CommunityMods/eaglerinjector/CustomItemsDemo.js",
       "category": "Demo",
       "api": "Eaglerforge-Injector"
     },
@@ -68,7 +68,7 @@
       "description": "A mod to help with hunting for duplication bugs.",
       "icon": "https://logolook.net/wp-content/uploads/2021/06/Symbol-Minecraft.png",
       "repo-link": "https://github.com/eaglerforge/EaglerForgeInjector/tree/main/examplemods",
-      "download-link": "/Communitymods/eaglerinjector/dupe_hunting.js",
+      "download-link": "/CommunityMods/eaglerinjector/dupe_hunting.js",
       "category": "Utility",
       "api": "Eaglerforge-Injector"
     },
@@ -301,7 +301,7 @@
       "description": "Just Enough Items, but Eagler!",
       "icon" : "images/jei.png",
       "repo-link": "https://github.com/OeildeLynx31/eaglerforge-mods/tree/main",
-      "download-link": "/Communitymods/eaglerforgeX/JEI.js",
+      "download-link": "/CommunityMods/eaglerforgeX/JEI.js",
       "category": "UI",
       "api" : "Old-Eaglerforge 1.8.8"
 
@@ -314,7 +314,7 @@
       "description": "Eagler Autorespawning!",
       "icon": "https://logolook.net/wp-content/uploads/2021/06/Symbol-Minecraft.png",
       "repo-link": "https://github.com/OeildeLynx31/eaglerforge-mods/tree/main",
-      "download-link": "/Communitymods/eaglerforgeX/player_vision.js",
+      "download-link": "/CommunityMods/eaglerforgeX/player_vision.js",
       "category": "Misc",
       "api" : "Old-Eaglerforge 1.8.8"
 
@@ -327,7 +327,7 @@
       "description": "Permanent Jumpboost!",
       "icon": "https://logolook.net/wp-content/uploads/2021/06/Symbol-Minecraft.png",
       "repo-link": "https://github.com/OeildeLynx31/eaglerforge-mods/tree/main",
-      "download-link": "/Communitymods/eaglerforgeX/jump_boost.js",
+      "download-link": "/CommunityMods/eaglerforgeX/jump_boost.js",
       "category": "Player-Benefits",
       "api" : "Old-Eaglerforge 1.8.8"
 
@@ -340,7 +340,7 @@
       "description": "See other players in your Eaglerforge servers!",
       "icon": "https://logolook.net/wp-content/uploads/2021/06/Symbol-Minecraft.png",
       "repo-link": "https://github.com/OeildeLynx31/eaglerforge-mods/tree/main",
-      "download-link": "/Communitymods/eaglerforgeX/player_vision.js",
+      "download-link": "/CommunityMods/eaglerforgeX/player_vision.js",
       "category": "UI",
       "api" : "Old-Eaglerforge 1.8.8"
 
@@ -353,7 +353,7 @@
       "description": "This is a Positioning system that lets you set homes and teleport to homes. commands: {sethome}, {home}, {EGHomesHelp}",
       "icon": "https://raw.githubusercontent.com/EaglerRinth/eaglerrinth.github.io/refs/heads/main/images/EaglerHomes.jpg",
       "repo-link": "https://github.com/EaglerRinth/eaglerrinth.github.io/blob/main/CommunityMods/eaglerforgeX/",
-      "download-link": "/Communitymods/eaglerforgeX/EaglerHomes.js",
+      "download-link": "/CommunityMods/eaglerforgeX/EaglerHomes.js",
       "category": "Player-Benefits",
       "api" : "Old-Eaglerforge 1.8.8"
 
